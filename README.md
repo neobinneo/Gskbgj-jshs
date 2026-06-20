@@ -1,2 +1,2 @@
 # Gskbgj-jshs
-hskh hajs
+just editor about that require
